@@ -6,3 +6,8 @@
 .card-body {
   margin: 5px;
 }
+
+.travelArrangements {
+  border: 1px solid black;
+  margin-top: 1em;
+}
