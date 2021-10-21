@@ -1,6 +1,7 @@
-/* .testimonials {
+.testimonials {
   border: 1px solid black;
-} */
+  padding: 1em;
+}
 
 .card-body {
   margin: 5px;
